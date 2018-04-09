@@ -28,4 +28,4 @@ Al entrar a su perfil, el usuario podrá ver información (sus puntuaciones reci
 
 Si es posible, se añadirá una sección para desarrolladores, en la que podrán subir y probar su juego en estado de alfa si es aprobado, y finalmente publicarlo cuando terminen de desarrollarlo.
 
-![flow](img/bocetos/Arcade Game Hub drawio.png)
+![flow](img/bocetos/arcade-game-hub.png)
