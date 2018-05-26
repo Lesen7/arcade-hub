@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Arcadehub-home</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/index.css" />
+    <script src="js/index.js"></script>
+</head>
+<body>
+    <nav id="mainNav">
+        <div id="navButtons">
+            <button id="buttonNews" class="navButton">News</button>
+            <button id="buttonGames" class="navButton">Games</button>
+            <button id="buttonScoreboards" class="navButton">Scoreboards</button>
+            <button id="buttonUsers" class="navButton">Users</button>
+        </div>
+        <div id="logButtons">
+            <button id="buttonLogin" class="logButton">Login</button>
+            <button id="buttonRegister" class="logButton">Register</button>
+        </div>
+    </nav>
+
+    <header id="mainHeader">
+        <img src="img/logo.png" alt="logo" id="logo">
+        <form action="GET" id="searchForm">
+            <input type="text" name="search" id="search" placeholder="search for a game...">
+            <input type="submit" value="Search">
+        </form>
+    </header>
+
+    <nav id="featured"></nav>
+
+    <div class="content"></div>
+</body>
+</html>
