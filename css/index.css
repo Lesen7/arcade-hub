@@ -42,6 +42,9 @@
     align-items: center;
 }
 
+#logo {
+    height: 120%;
+}
 
 /* En este nav iría un carousel con featured, nuevos juegos, más jugados, etc... */
 #featured {
